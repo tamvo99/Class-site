@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+.canvas {
+  width: 900px;
+  height: 556px;
+  margin: 100px auto;
+  background: teal;
+  position: relative;
+  z-index: 0;
+}
+
+.top {
+  width: 200px;
+  height: 80px;
+  background: rgb(163, 163, 163);
+  border-radius: 100px / 50px;
+  position: absolute;
+  left: 450px;
+  bottom: 395px;
+  z-index: 1;
+}
+
+.bottom {
+  width: 200px;
+  height: 400px;
+  background: rgb(255, 217, 0);
+  position: absolute;
+  left: 450px;
+  bottom: 200px;
+  top: 200px;
+}
+
+.cantop {
+  width: 200px;
+  height: 100px;
+  background: rgb(226, 205, 14);
+  border-radius: 100px / 50px;
+  position: absolute;
+  left: 450px;
+  bottom: 200px;
+  top: 550px;
+}
+
+.circle {
+  width: 300px;
+  height: 300px;
+  background: rgb(156, 255, 126);
+  border-radius: 50%;
+  position: absolute;
+  left: 450px;
+  bottom: -580px;
+  
+}
+
+.lefteye {
+  width: 50px;
+  height: 50px;
+  background: rgb(43, 43, 43);
+  border-radius: 50%;
+  position: absolute;
+  left: 500px;
+  bottom: -500px;
+}
+
+.righteye {
+  width: 50px;
+  height: 50px;
+  background: rgb(43, 43, 43);
+  border-radius: 50%;
+  position: absolute;
+  left: 600px;
+  bottom: -500px;
+}
+
+.mouth {
+  width: 80px;
+  height: 5px;
+  background: rgb(73, 73, 73);
+  position: absolute;
+  left: 540px;
+  bottom: -550px;
+
+}
+
+
