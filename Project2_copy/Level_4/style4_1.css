@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    opacity: calc(20%);
+    text-align: center;
+    
+
+}
+
+.text {
+    font-size: 200pt;
+}

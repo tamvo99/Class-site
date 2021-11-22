@@ -1,0 +1,12 @@
+body {
+    background-color: turquoise;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(170, 75, 91);
+}
+
+div {
+    left: 550px;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
