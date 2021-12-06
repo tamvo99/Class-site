@@ -1,0 +1,51 @@
+body { 
+  background-color: black;
+  overflow: hidden;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+#VIDEO {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 1200px;
+  height: 635px;
+  z-index: -1;
+}
+
+.first {
+  background-color:#ffffff;
+}
+.second {
+  background-color:#ffffff;
+}
+.third {
+  background-color: white;
+}
+.fourth {
+  background-color: white;
+}
+.fifth {
+  background-color: white;
+}
+.sixth {
+  background-color: white;
+}
+.seventh {
+  background-color: white;
+}
+.eighth {
+  background-color: white;
+}
+.nineth {
+  background-color: white;
+}
+.tenth {
+  background-color: white;
+}
+
+
+
+
+
